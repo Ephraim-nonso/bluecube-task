@@ -1,10 +1,12 @@
+// importing the styles for easy recognition
 @use "../src/components/styles/navbar/navbar.scss";
 @use "../src/components/styles/main-section/main-section.scss";
+
+// default required setting for the html body
 body {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   overflow: hidden;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
