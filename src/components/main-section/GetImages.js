@@ -24,7 +24,7 @@ const GetImages = () => {
   //   Mapping through the results from the API in order to easily render it.
 
   const filterResult = JSON.parse(localStorage.getItem("filterData"));
-  console.log("why", filterResult);
+  console.log(filterResult);
 
   const getResult = filterResult.length > 0 ? filterResult : results;
 
