@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bluecube-task/static/css/main.ad698f78.chunk.css",
+    "main.js": "/bluecube-task/static/js/main.f82c9f06.chunk.js",
+    "main.js.map": "/bluecube-task/static/js/main.f82c9f06.chunk.js.map",
+    "runtime-main.js": "/bluecube-task/static/js/runtime-main.52b8b20b.js",
+    "runtime-main.js.map": "/bluecube-task/static/js/runtime-main.52b8b20b.js.map",
+    "static/js/2.bf8520fd.chunk.js": "/bluecube-task/static/js/2.bf8520fd.chunk.js",
+    "static/js/2.bf8520fd.chunk.js.map": "/bluecube-task/static/js/2.bf8520fd.chunk.js.map",
+    "static/js/3.16c32635.chunk.js": "/bluecube-task/static/js/3.16c32635.chunk.js",
+    "static/js/3.16c32635.chunk.js.map": "/bluecube-task/static/js/3.16c32635.chunk.js.map",
+    "index.html": "/bluecube-task/index.html",
+    "static/css/main.ad698f78.chunk.css.map": "/bluecube-task/static/css/main.ad698f78.chunk.css.map",
+    "static/js/2.bf8520fd.chunk.js.LICENSE.txt": "/bluecube-task/static/js/2.bf8520fd.chunk.js.LICENSE.txt",
+    "static/media/avatar.3659cf3e.jpg": "/bluecube-task/static/media/avatar.3659cf3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b8b20b.js",
+    "static/js/2.bf8520fd.chunk.js",
+    "static/css/main.ad698f78.chunk.css",
+    "static/js/main.f82c9f06.chunk.js"
+  ]
+}
